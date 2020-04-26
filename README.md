@@ -1,2 +1,2 @@
-Krusader Vintage colormap
-Settings->Configure Krusader->Colors->Import color-scheme
+Krusader Vintage colormap  
+Settings->Configure Krusader->Colors->Import color-scheme  
